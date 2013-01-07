@@ -115,5 +115,5 @@ let g:DoxygenToolkit_returnTag="@Returns   "
 let g:DoxygenToolkit_blockHeader="--------------------------------------------------------------------------" 
 let g:DoxygenToolkit_blockFooter="----------------------------------------------------------------------------" 
 let g:DoxygenToolkit_authorName="fumin, fumin@hust.edu.cn" 
-let g:DoxygenToolkit_licenseTag="COPYRIGHT(C)\n For free\n All right reversed\n"
+let g:DoxygenToolkit_licenseTag="COPYRIGHT(C)\n For free\n All right reserved\n"
 
