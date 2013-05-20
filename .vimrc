@@ -85,7 +85,7 @@ set completeopt=menu
 :inoremap } <c-r>=ClosePair('}')<CR>
 :inoremap [ []<ESC>i
 :inoremap ] <c-r>=ClosePair(']')<CR>
-:inoremap < <><ESC>i
+":inoremap < <><ESC>i
 :inoremap > <c-r>=ClosePair('>')<CR>
 :inoremap " ""<ESC>i
 :inoremap ' ''<ESC>i
@@ -114,6 +114,6 @@ let g:DoxygenToolkit_paramTag_pre="@Param "
 let g:DoxygenToolkit_returnTag="@Returns   " 
 let g:DoxygenToolkit_blockHeader="--------------------------------------------------------------------------" 
 let g:DoxygenToolkit_blockFooter="----------------------------------------------------------------------------" 
-let g:DoxygenToolkit_authorName="fumin, fumin@hust.edu.cn" 
+let g:DoxygenToolkit_authorName="Min Fu, fumin@hust.edu.cn" 
 let g:DoxygenToolkit_licenseTag="COPYRIGHT(C)\n For free\n All right reserved\n"
 
